@@ -14,12 +14,9 @@ In this study, we utilized language models like CLSTM and Transformer to solve n
 
 ## 🏁 Description of Files in the Repo
 
-- Model_Weights_and_Eval_Metrics/ : Model weights trained with different hyperparameters and loss&acc for each epoch of training and testing.
-- plots/ : Visualize acc and loss of models trained and tested using different hyperparameters in each epoch
-- SE_ResNet_55.py : SEResNet model with 55 layers.
-- SE_ResNet_68.py : SEResNet model with 68 layers.
-- cifar_test_nolabels.pkl : A custom test dataset.
-- main.ipynb : Train and test.
+- supervised_CLSTM.ipynb : Experiment on supervised learning using CLSTM, including tests on different token choices.
+- supervised_Transformer.ipynb : Experiment on supervised learning using Transformer.
+- unsupervised_CLSTM.ipynb : Experiment on unsupervised learning using CLSTM, including tests on different dataset: "Dirty", "Clean", "NoDDoS".
 
 
 ## 📊 Results
