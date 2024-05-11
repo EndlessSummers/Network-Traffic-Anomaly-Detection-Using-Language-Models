@@ -21,10 +21,6 @@ In this study, we utilized language models like CLSTM and Transformer to solve n
 - cifar_test_nolabels.pkl : A custom test dataset.
 - main.ipynb : Train and test.
 
-## ⏳ Training and Testing
-Run `main.ipynb` to reproduce the result.
-You need to modify different hyperparameters and select different network SEResNet architectures in `main.ipynb` to conduct different experiments.
-
 
 ## 📊 Results
 | Sr. No. | Model Name   | # Residual Blocks in Residual Layer | Optimizer       | lr   | Augmentation | Gradient Clip | Batch Size | Params | Test Acc | File Link                                                                                                                                                         |
