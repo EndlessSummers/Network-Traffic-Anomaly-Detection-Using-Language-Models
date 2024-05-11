@@ -20,9 +20,11 @@ In this study, we utilized language models like CLSTM and Transformer to solve n
 
 
 ## 📊 Results
-| Sr. No. | Model Name   | Accuracy | Precision       | Recall   | F1-Score | AUC-Score |                                                                                                                                                      |
-|---------|--------------|-------------------------------------|-----------------|------|--------------|---------------|
-| 1       | CLSTM (Protobyte)   | 0.95                           | 0.91   | 0.84  | 0.87         | --          | 
-| 2       | CLSTM (Protobyte)   | 0.95                           | 0.91   | 0.84  | 0.87         | --          | 
-| 1       | CLSTM (Protobyte)   | 0.95                           | 0.91   | 0.84  | 0.87         | --          | 
-| 1       | CLSTM (Protobyte)   | 0.95                           | 0.91   | 0.84  | 0.87         | --          | 
+| Sr. No. | Model Name                        | Accuracy | Precision       | Recall   | F1-Score | AUC-Score |
+|---------|-----------------------------------|----------|-----------------|----------|----------|-----------|
+| 1       | Supervised CLSTM (Protobyte)      | 0.95     | 0.91            | 0.84     | 0.87     | --        | 
+| 2       | Supervised CLSTM (Service Port)   | 0.96     | 0.93            | 0.14     | 0.24     | --        | 
+| 3       | Transformer                       | 0.96     | 0.93            | 0.86     | 0.89     | --        | 
+| 4       | Unsupervised CLSTM (Dirty)        | 0.82     | 0.76            | 0.71     | 0.73     | 0.75      | 
+| 5       | Unsupervised CLSTM (Clean))       | 0.89     | 0.80            | 0.75     | 0.77     | 0.82      | 
+| 6       | Unsupervised CLSTM (NoDDoS)       | 0.87     | 0.79            | 0.75     | 0.77     | 0.80      | 
