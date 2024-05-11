@@ -10,7 +10,6 @@ In this study, we utilized language models like CLSTM and Transformer to solve n
 - pytorch_optimizer
 - numpy
 - pandas
-- collections
 
 ## 🏁 Description of Files in the Repo
 
