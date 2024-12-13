@@ -1,4 +1,4 @@
-# Network-Traffic-Anomaly-Detection-Using-Language-Models
+# Network-Traffic-Anomaly-Detection-Using-Representation-Learning-and-Language-Models
 ## 📦 Overview
 In this study, we utilized language models like CLSTM and Transformer to solve network traffic anomaly detection problem in cybersecurity. We employed techniques in both NLP and cybersecurity fields, such as Dyad-hour, sliding windows and tokenization to implement the system. Experiments are conducted on both supervised and unsupervised learning methods. We finally achieved an accuracy of 0.96 and F1 score of 0.89 on supervised method and a ROC score of 0.82 on unsupervised method, which is comparable to the performance of traditional detection systems, and overcame the limitations of a priori knowledge.
 
