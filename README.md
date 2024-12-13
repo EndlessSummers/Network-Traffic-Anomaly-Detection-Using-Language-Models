@@ -28,6 +28,6 @@ In this study, we utilized language models like CLSTM, Transformer and GPT-2 to 
 | 3       | Supervised GPT-2                  | 0.99     | 0.98            | 0.95     | 0.97     |
 | 4       | Unsupervised CLSTM                | 0.89     | 0.80            | 0.75     | 0.77     |
 | 5       | Unsupervised Transformer          | 0.92     | 0.87            | 0.82     | 0.84     |
-| 6       | Unsupervised GPT-2 (Dirty)        | 0.95     | 0.96            | 0.94     | 0.95     |
-| 7      | Unsupervised GPT-2 (NoDDoS)       | 0.93     | 0.94            | 0.91     | 0.92     |
-| 8       | Unsupervised GPT-2 (Clean)        | 0.89     | 0.88            | 0.86     | 0.87     |
+| 6       | Unsupervised GPT-2 (Dirty)        | 0.95     | 0.95            | 0.93     | 0.94     |
+| 7       | Unsupervised GPT-2 (NoDDoS)       | 0.93     | 0.92            | 0.90     | 0.91     |
+| 8       | Unsupervised GPT-2 (Clean)        | 0.89     | 0.88            | 0.82     | 0.85     |
