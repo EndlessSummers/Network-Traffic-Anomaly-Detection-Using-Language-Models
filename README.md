@@ -16,6 +16,8 @@ In this study, we utilized language models like CLSTM, Transformer and GPT-2 to 
 - supervised_CLSTM.ipynb : Experiment on supervised learning using CLSTM, including tests on different token choices: Protobyte and Service Port.
 - supervised_Transformer.ipynb : Experiment on supervised learning using Transformer.
 - unsupervised_CLSTM.ipynb : Experiment on unsupervised learning using CLSTM, including tests on different dataset: "Dirty", "Clean", "NoDDoS".
+- supervised_GPT2.ipynb : Implementation of supervised learning method using GPT-2.
+- unsupervised_GPT2.ipynb : Implementation of unsupervised learning method using GPT-2.
 
 
 ## 📊 Results
